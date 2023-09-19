@@ -88,7 +88,7 @@ Passionné par le domaine du développement informatique j'apprends en continu p
 
 📌 J'apprends en ce moment TypeScript et j'apprendrais par la suite React et Redux.
 
-## Expérience
+## 💼 Expérience
 
 Dans le cadre du projet de fin de formation du Titre pro. « Développeur Web et Web mobile » d'O'clock j'ai travaillé en équipe avec quatre personnes pendant environ 1 mois pour la création de A à Z de l'application Web « OlympiTravel ».
 
@@ -103,7 +103,7 @@ OlympiTravel est à destination des fans des Jeux Olympiques de Paris 2024. L'ob
 
 ➡️ Details sur [ma page LinkedIn](https://www.linkedin.com/in/florent-dev/).
 
-## Formations
+## 👩‍🏫 Formations
 
 ### Titre pro. « Concepteur développeur d'applications » (Niv. 5, éq. BAC+3)
 
