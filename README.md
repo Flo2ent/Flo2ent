@@ -32,7 +32,7 @@ Si vous êtes intéressé par mes compétences n'hésitez pas à m'inviter sur L
 
 ## 📧 Contact
 
-- [LinkedIn]("https://www.linkedin.com/in/florent-dev/")
+- [LinkedIn](https://www.linkedin.com/in/florent-dev/)
 
 ## ✍️ Compétences
 
@@ -101,7 +101,7 @@ OlympiTravel est à destination des fans des Jeux Olympiques de Paris 2024. L'ob
 - aux hôtels à proximité des sites olympiques et
 - à un système de favoris.
 
-➡️ Details sur [ma page LinkedIn]("https://www.linkedin.com/in/florent-dev/").
+➡️ Details sur [ma page LinkedIn](https://www.linkedin.com/in/florent-dev/).
 
 ## Formations
 
@@ -114,7 +114,7 @@ Cette formation en alternance de l'École O'clock, labélisée Grande Ecole du N
 - 637 h intensives de cours et
 - 161 h pour la réalisation d’un projet de groupe.
 
-➡️ Details sur [ma page LinkedIn]("https://www.linkedin.com/in/florent-dev/").
+➡️ Details sur [ma page LinkedIn](https://www.linkedin.com/in/florent-dev/).
 
 ### Titre pro. Développeur Web et Web mobile (Niv. 5, éq. BAC+2)
 
