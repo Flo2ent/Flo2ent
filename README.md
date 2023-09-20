@@ -86,7 +86,11 @@ Web mobile
 
 Passionné par le domaine du développement informatique j'apprends en continu pour me perfectionner et développer de nouvelles compétences et je réalises une veille numérique pour me tenir à jour.
 
-📌 J'apprends en ce moment TypeScript et j'apprendrais par la suite React et Redux.
+📌 J'apprends en ce moment TypeScript et j'apprendrais par la suite React, Axios et Redux.
+
+📄 J'ai appris en autodidacte :
+
+- SASS (SCSS)
 
 ## 💼 Expérience
 
@@ -105,7 +109,7 @@ OlympiTravel est à destination des fans des Jeux Olympiques de Paris 2024. L'ob
 
 ## 🎓 Formations
 
-### Titre pro. « Concepteur développeur d'applications » (Niv. 5, éq. BAC+3)
+### • Titre pro. « Concepteur développeur d'applications » (Niv. 5, éq. BAC+3)
 
 Cette formation en alternance de l'École O'clock, labélisée Grande Ecole du Numérique (GEN), se déroulera en télé-présentiel à partir du 29 janvier 2024. Elle durera 18 mois et pourra être prolongée de 3 mois supplémentaires en entreprise dans le cadre d'un contrat d'apprentissage.
 
@@ -116,7 +120,7 @@ Cette formation en alternance de l'École O'clock, labélisée Grande Ecole du N
 
 ➡️ Details sur [ma page LinkedIn](https://www.linkedin.com/in/florent-dev/).
 
-### Titre pro. Développeur Web et Web mobile (Niv. 5, éq. BAC+2)
+### • Titre pro. Développeur Web et Web mobile (Niv. 5, éq. BAC+2)
 
 Cette formation intensive de l'École O'clock s'est déroulée en télé-présentiel entre mars et septembre 2023.
 
