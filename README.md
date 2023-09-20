@@ -130,4 +130,4 @@ Cette formation intensive de l'École O'clock s'est déroulée en télé-présen
 - 168 h de Spécialisation et
 - 154 h pour la réalisation d'un projet de groupe (l'« Apothéose »).
 
-➡️ Details sur [ma page LinkedIn]("https://www.linkedin.com/in/florent-dev/").
+➡️ Details sur [ma page LinkedIn](https://www.linkedin.com/in/florent-dev/).
