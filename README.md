@@ -92,7 +92,7 @@ Passionné par le domaine du développement informatique j'apprends en continu p
 
 Dans le cadre du projet de fin de formation du Titre pro. « Développeur Web et Web mobile » d'O'clock j'ai travaillé en équipe avec quatre personnes pendant environ 1 mois pour la création de A à Z de l'application Web « OlympiTravel ».
 
-📝 Cahier des charges
+📝 Cahier des charges<br>
 OlympiTravel est à destination des fans des Jeux Olympiques de Paris 2024. L'objectif est de simplifier la planification du séjour d'un fan. Pour ce faire les utilisateurs ont accès :
 
 - à la liste des disciplines sportives,
