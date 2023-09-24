@@ -109,7 +109,7 @@ OlympiTravel est à destination des fans des Jeux Olympiques de Paris 2024. L'ob
 
 ## 🎓 Formations
 
-### • Titre pro. « Concepteur développeur d'applications » (Niv. 5, éq. BAC+3)
+### • Titre pro. « Concepteur développeur d'applications » (Niv. 6, éq. BAC+3)
 
 Cette formation en alternance de l'École O'clock, labélisée Grande Ecole du Numérique (GEN), se déroulera en télé-présentiel à partir du 29 janvier 2024. Elle durera 18 mois et pourra être prolongée de 3 mois supplémentaires en entreprise dans le cadre d'un contrat d'apprentissage.
 
