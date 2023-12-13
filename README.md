@@ -26,7 +26,7 @@ Attiré par le monde du numérique depuis l’adolescence, j’ai découvert la 
 
 ## 🔍 Collaboration
 
-Dès le 29 janvier 2024 je participerai à la formation en alternance « Titre professionnel Concepteur développeur d'applications » chez l'École O'clock, certifiée Grande École du Numérique (GEN).
+Dès le 2 avril 2024 je participerai à la formation en alternance « Titre professionnel Concepteur développeur d'applications » chez l'École O'clock, certifiée Grande École du Numérique (GEN).
 
 Si vous êtes intéressé par mes compétences n'hésitez pas à m'inviter sur LinkedIn afin que nous puissions discuter de vos projets et d'une éventuelle collaboration.
 
@@ -107,11 +107,13 @@ OlympiTravel est à destination des fans des Jeux Olympiques de Paris 2024. L'ob
 
 ➡️ Details sur [ma page LinkedIn](https://www.linkedin.com/in/florent-dev/).
 
+🌐 Adresse du projet : [https://olympi.me/](https://olympi.me/)
+
 ## 🎓 Formations
 
 ### • Titre pro. « Concepteur développeur d'applications » (Niv. 6, éq. BAC+3)
 
-Cette formation en alternance de l'École O'clock, labélisée Grande Ecole du Numérique (GEN), se déroulera en télé-présentiel à partir du 29 janvier 2024. Elle durera 18 mois et pourra être prolongée de 3 mois supplémentaires en entreprise dans le cadre d'un contrat d'apprentissage.
+Cette formation en alternance de l'École O'clock, labélisée Grande Ecole du Numérique (GEN), se déroulera en télé-présentiel à partir du 2 avril 2024. Elle durera 18 mois et pourra être prolongée de 3 mois avant et/ou 2 mois après supplémentaires en entreprise dans le cadre d'un contrat d'apprentissage.
 
 📜 Cette formation sera composée de :
 
