@@ -90,6 +90,7 @@ Passionné par le domaine du développement informatique j'apprends en continu p
 
 📄 J'ai appris en autodidacte :
 
+- HTML
 - SASS (SCSS)
 
 ## 💼 Expérience
