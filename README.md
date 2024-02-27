@@ -15,7 +15,7 @@
 
 # 👋 Bonjour
 
-Je m'appelle Florent POUDROUX et j'ai 24 ans.<br>
+Je m'appelle Florent POUDROUX et j'ai 25 ans.<br>
 Je suis **Concepteur développeur full stack JavaScript**.
 
 ## 💡 À propos
@@ -26,7 +26,7 @@ Attiré par le monde du numérique depuis l’adolescence, j’ai découvert la 
 
 ## 🔍 Collaboration
 
-Dès le 2 avril 2024 je participerai à la formation en alternance « Titre professionnel Concepteur développeur d'applications » chez l'École O'clock, certifiée Grande École du Numérique (GEN).
+Dès le 2 octobre 2024 je participerai à la formation en alternance « Titre professionnel Concepteur développeur d'applications » chez l'École O'clock, certifiée Grande École du Numérique (GEN).
 
 Si vous êtes intéressé par mes compétences n'hésitez pas à m'inviter sur LinkedIn afin que nous puissions discuter de vos projets et d'une éventuelle collaboration.
 
