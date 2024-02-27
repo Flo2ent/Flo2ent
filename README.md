@@ -108,8 +108,6 @@ OlympiTravel est à destination des fans des Jeux Olympiques de Paris 2024. L'ob
 
 ➡️ Details sur [ma page LinkedIn](https://www.linkedin.com/in/florent-dev/).
 
-🌐 Adresse du projet : [https://olympi.me/](https://olympi.me/)
-
 ## 🎓 Formations
 
 ### • Titre pro. « Concepteur développeur d'applications » (Niv. 6, éq. BAC+3)
