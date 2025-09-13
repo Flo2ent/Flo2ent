@@ -15,24 +15,14 @@
 
 # 👋 Bonjour
 
-Je m'appelle Florent POUDROUX et j'ai 25 ans.<br>
-Je suis **Concepteur développeur full stack JavaScript**.
+Je m'appelle Florent POUDROUX et j'ai 26 ans.<br>
+Je suis **Développeur full stack JavaScript**.
 
 ## 💡 À propos
 
 Attiré par le monde du numérique depuis l’adolescence, j’ai découvert la programmation lors de mon baccalauréat technologique. J’ai été conquis par le développement Web, par ses parties front end demandant créativité et back end exigeant rigueur.
 
 ❤️ J’ai décidé de me lancer de nouveaux défis en en faisant mon métier. Je suis spécialement intéressé par les projet qui utilisent une stack technique full JavaScript.
-
-## 🔍 Collaboration
-
-Dès le 2 octobre 2024 je participerai à la formation en alternance « Titre professionnel Concepteur développeur d'applications » chez l'École O'clock, certifiée Grande École du Numérique (GEN).
-
-Si vous êtes intéressé par mes compétences n'hésitez pas à m'inviter sur LinkedIn afin que nous puissions discuter de vos projets et d'une éventuelle collaboration.
-
-## 📧 Contact
-
-- [LinkedIn](https://www.linkedin.com/in/florent-dev/)
 
 ## ✍️ Compétences
 
@@ -108,18 +98,7 @@ OlympiTravel est à destination des fans des Jeux Olympiques de Paris 2024. L'ob
 
 ➡️ Details sur [ma page LinkedIn](https://www.linkedin.com/in/florent-dev/).
 
-## 🎓 Formations
-
-### • Titre pro. « Concepteur développeur d'applications » (Niv. 6, éq. BAC+3)
-
-Cette formation en alternance de l'École O'clock, labélisée Grande Ecole du Numérique (GEN), se déroulera en télé-présentiel à partir du 2 octobre 2024. Elle durera 18 mois et pourra être prolongée de 3 mois avant et/ou 2 mois après supplémentaires en entreprise dans le cadre d'un contrat d'apprentissage.
-
-📜 Cette formation sera composée de :
-
-- 637 h intensives de cours et
-- 161 h pour la réalisation d’un projet de groupe.
-
-➡️ Details sur [ma page LinkedIn](https://www.linkedin.com/in/florent-dev/).
+## 🎓 Formation
 
 ### • Titre pro. Développeur Web et Web mobile (Niv. 5, éq. BAC+2)
 
